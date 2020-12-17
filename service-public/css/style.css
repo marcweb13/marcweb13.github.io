@@ -1,0 +1,135 @@
+body {
+    font-family: 'sertig', sans-serif;
+    font-size: 20px;
+}
+
+.container-fluid {
+    max-width: 1300px;
+}
+
+
+/*HEADER*/
+
+.navbar2 {
+    margin-top: -55px;
+}
+
+.navbar2 ul {
+    padding-right: 165px;
+}
+
+.navbar2 ul li a {
+    font-size: 25px;
+}
+
+.navbar .navbar-brand {
+    font-size: 15px;
+}
+
+.navbar span a {
+    font-size: 20px;
+}
+
+.navbar-nav li i {
+    padding-left: 25px;
+}
+
+/*END HEADER*/
+
+/*JUMBOTRON */
+
+.jumbotron {
+    height: 200px;
+    overflow: hidden;
+    background-color: white;
+}
+
+.jumbotron img {
+    padding-left: -2px;
+}
+
+/*END JUMBOTRON*/
+
+/*ASIDE*/
+
+.card {
+    background-color: teal;
+}
+
+.card ul li i {
+    padding-top: -2px;
+    padding-left: -40px;
+}
+
+.card .service span a {
+    color: white;
+    padding-left: 18px;
+}
+
+.card .rubrique {
+    border-bottom: 1px solid #fff;
+    color: white;
+    padding-left: 20px;
+    font-size: 25px;
+}
+
+.card .service h5 {
+    font-size: 20px;
+    padding-left: 25px;
+}
+
+.card .input-group {
+    background-color: white;
+}
+
+
+.service h5 {
+    margin-left: -25px;
+}
+
+.col-6 {
+    border: 1px solid #eee;
+}
+
+.content h3 {
+    font-size: 40px;
+}
+
+.content1 h3 {
+    font-size: 50px;
+}
+
+.badge {
+    font-size: 20px;
+
+}
+
+.service span {
+    font-size: 20px;
+    margin-left: -25px;
+}
+
+.service span i {
+    padding-left: 25px;
+}
+
+
+/*END ASIDE*/
+
+/*FOOTER*/
+
+.footer {
+    background: teal;
+}
+
+.footer .rubrique {
+    font-size: 30px;
+    color: white;
+}
+
+.footer .service span a {
+    color: white;
+}
+
+
+/*END FOOTER*/
